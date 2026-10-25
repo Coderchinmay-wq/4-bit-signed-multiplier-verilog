@@ -110,24 +110,41 @@ HDL description → synthesized hardware → physical FPGA implementation
 The report confirms successful design, simulation, synthesis, and FPGA implementation.
 
 ## 🛠️ Tools & Technologies
-Hardware
+
+### Hardware:
 
 🔴 Artix-7 FPGA Board
+
 USB Programming Interface
+
 On-board I/O
-Software
+
+### Software:
+
 Xilinx Vivado
+
 Vivado Simulator
+
 Verilog HDL
-Concepts
+
+### Concepts:
+
 Digital Arithmetic
+
 Signed Binary Numbers
+
 Two's Complement
+
 Combinational Logic
+
 RTL Design
+
 Simulation & Verification
+
 FPGA Synthesis
+
 FPGA Implementation
+
 Bitstream Generation
 
 ## 📊 Key Learning Outcomes
@@ -135,13 +152,21 @@ Bitstream Generation
 Through this project, I gained practical experience in:
 
 Writing synthesizable Verilog RTL
+
 Handling signed arithmetic in Verilog
+
 Understanding two's complement representation
+
 Creating simulation testbenches
+
 Debugging RTL through waveform analysis
+
 Understanding FPGA synthesis
+
 Understanding implementation and place-and-route
+
 Generating FPGA bitstreams
+
 Deploying Verilog designs on Artix-7 hardware
 
 ## 🚀 Future Improvements
@@ -149,20 +174,18 @@ Deploying Verilog designs on Artix-7 hardware
 Possible extensions of this project include:
 
  Parameterized N-bit signed multiplier
+ 
  Pipelined multiplier for higher operating frequency
+ 
  DSP-slice based implementation
+ 
  Signed MAC (Multiply-Accumulate) unit
+ 
  8-bit / 16-bit multiplier
+
  FPGA resource utilization comparison
+ 
  Comparison between behavioral and structural multiplier implementations
-
-## 📚 Project Context
-
-Course: Digital Systems and Designing
-Project Type: Open-Ended Laboratory Experiment
-Design Platform: Artix-7 FPGA
-HDL: Verilog
-Development Environment: Vivado
 
 👨‍💻 Author
 
